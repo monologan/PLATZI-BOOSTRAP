@@ -6,6 +6,11 @@
     background-color: #97c93e;
     color: #fff;
 }
+
+.btn-platzi:hover {
+    background-color: #405a12;
+}
+
 #header {
     width: 100%;
     
